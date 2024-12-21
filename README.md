@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/rakeemdawson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a senior undergraduate with a profound interest in technology and a dedication to solving complex problems.
+I am an experienced IT professional with a strong foundation in Information Technology. Over time, I have cultivated a deep passion for cybersecurity and am now enthusiastic about transitioning into this field, with a specific goal of joining a Security Operations Center (SOC) as an Analyst.
 
 ## Objective
 
