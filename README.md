@@ -1,13 +1,11 @@
 # Hello, I'm Rakeem
 <a href="https://www.linkedin.com/in/rakeemdawson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am an experienced IT professional with a strong foundation in Information Technology. Over time, I have cultivated a deep passion for cybersecurity and am now enthusiastic about transitioning into this field, with a specific goal of joining a Security Operations Center (SOC) as an Analyst.
+I am a senior undergraduate with a deep passion for technology and a strong commitment to tackling complex challenges. 
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
-
+I am an experienced IT professional with a strong foundation in Information Technology. Over time, I have cultivated a deep passion for cybersecurity and am now enthusiastic about transitioning into this field, with a specific goal of joining a Security Operations Center (SOC) as an Analyst.
 ## Skills
 
 | Skill                                         | Associated Project         |
